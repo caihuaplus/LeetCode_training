@@ -1,5 +1,4 @@
 # LeetCode 刷题之路
--
 
 [![Travis](https://img.shields.io/badge/language-Java-green.svg)]()
 [![Travis](https://img.shields.io/badge/language-Python-yellow.svg)]()
