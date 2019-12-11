@@ -3,8 +3,8 @@
 
 [![Travis](https://img.shields.io/badge/language-Java-green.svg)]()
 [![Travis](https://img.shields.io/badge/language-Python-yellow.svg)]()
-![Total visitor](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=xxtlant.leetcode_training
-![Visitors in today](https://visitor-count-badge.herokuapp.com/today.svg?repo_id=xxtlant.leetcode_training
+![Total visitor](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=xxtlant.leetcode_training)
+![Visitors in today](https://visitor-count-badge.herokuapp.com/today.svg?repo_id=xxtlant.leetcode_training)
 
 > 从今天开始刷题之路，时间：2019-12-11 14:37 。
 
