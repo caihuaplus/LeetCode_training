@@ -30,20 +30,20 @@ LeetCode 刷题之路，记录自己的刷题之旅。
 
 ### 数组  Array
 
-| 题号 | 题解 | 第一遍 | 第二遍 | 第三遍 | 第四遍 | 第五遍 |
+| 题号 | 难度 | 题解 | 第一遍 | 第二遍 | 第三遍 | 第四遍 | 第五遍 |
 |:- | :-: | :-: | :-: | :-:|:-:|:-:|
-|难度：简单[283.移动零](https://leetcode-cn.com/problems/move-zeroes/)|[思路与代码](./Array/283-move-zeroes.md) | √ | √ | √ | × | × |
-|难度：简单 [70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)|[思路与代码](./Array/70-climbing-stairs.md) | √ | √ | √ | × | × |
-|难度：简单 [1.两数之和](https://leetcode-cn.com/problems/two-sum/)|[思路与代码](./Array/1-two-sum.md) | √ | √ | √ | × | × |
-|难度：中等 [15. 三数之和](https://leetcode-cn.com/problems/3sum/)|[思路与代码](./Array/15-3sum.md) | √ | √ | × | × | × |
-|难度：中等 [11.盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/)|[思路与代码](./Array/11-container-with-most-water.md) | √ | √ | √ | × | × |
-|难度：简单 [66.加一](https://leetcode-cn.com/problems/plus-one/)|[思路与代码](./Array/66-plus-one.md) | √ | √ | ×  | × | × |
+|[283.移动零](https://leetcode-cn.com/problems/move-zeroes/)| 简单 |[思路与代码](./Array/283-move-zeroes.md) | √ | √ | √ | × | × |
+|[70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)| 简单 |[思路与代码](./Array/70-climbing-stairs.md) | √ | √ | √ | × | × |
+|[1.两数之和](https://leetcode-cn.com/problems/two-sum/)| 简单 |[思路与代码](./Array/1-two-sum.md) | √ | √ | √ | × | × |
+|[15. 三数之和](https://leetcode-cn.com/problems/3sum/)| 中等 |[思路与代码](./Array/15-3sum.md) | √ | √ | × | × | × |
+|[11.盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/)| 中等 |[思路与代码](./Array/11-container-with-most-water.md) | √ | √ | √ | × | × |
+|[66.加一](https://leetcode-cn.com/problems/plus-one/)| 简单 |[思路与代码](./Array/66-plus-one.md) | √ | √ | ×  | × | × |
 
 ### 链表 linked list
 
 | 题号 | 题解 | 第一遍 | 第二遍 | 第三遍 | 第四遍 | 第五遍 |
 |:- | :-: | :-: | :-: | :-:|:-:|:-:|
-|难度：简单[206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)|[思路与代码](./LinkedList/206-reverse-linked-list.md) | √ | √ | × | × | × |
-|难度：简单[141.环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)|[思路与代码](./LinkedList/141-linked-list-cycle.md)| √ | √ | × | × | × |
-|难度：简单[142.环形链表II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)|[思路与代码](./LinkedList/142-linked-list-cycle-ii.md)| √ | √ | × | × | × |
-|难度：中等[24. 两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)|[思路与代码](./LinkedList/24-swap-nodes-in-pairs.md)| √ | √ | × | × | × |
+|[206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)| 简单 |[思路与代码](./LinkedList/206-reverse-linked-list.md) | √ | √ | × | × | × |
+|[141.环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)| 简单 |[思路与代码](./LinkedList/141-linked-list-cycle.md)| √ | √ | × | × | × |
+|[142.环形链表II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)| 简单 |[思路与代码](./LinkedList/142-linked-list-cycle-ii.md)| √ | √ | × | × | × |
+|[24. 两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)| 中等 |[思路与代码](./LinkedList/24-swap-nodes-in-pairs.md)| √ | √ | × | × | × |
