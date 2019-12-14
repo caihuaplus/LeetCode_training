@@ -28,12 +28,19 @@ LeetCode 刷题之路，记录自己的刷题之旅。
 
 ## 题目传送门
 
-### Array
+### 数组  Array
 
 | 题号 | 题解 | 第一遍 | 第二遍 | 第三遍 | 第四遍 | 第五遍 |
 |:- | :-: | :-: | :-: | :-:|:-:|:-:|
 |难度：简单[283.移动零](https://leetcode-cn.com/problems/move-zeroes/)|[思路与代码](Array/283.&#32;移动零.md) | √ | √ | √ | × | × |
-|难度：简单 [70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)|[思路与代码](Array/70.&#32;爬楼梯.md) | √ | √ | × | × | × |
+|难度：简单 [70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)|[思路与代码](Array/70.&#32;爬楼梯.md) | √ | √ | √ | × | × |
 |难度：简单 [1.两数之和](https://leetcode-cn.com/problems/two-sum/submissions/)|[思路与代码](Array/1.&#32;两数之和.md) | √ | √ | √ | × | × |
 |难度：中等 [15. 三数之和](https://leetcode-cn.com/problems/3sum/)|[思路与代码](Array/15.&#32;三数之和.md) | √ | √ | × | × | × |
 |难度：中等 [11.盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/submissions/)|[思路与代码](Array/11.盛水最多的容器.md) | √ | √ | √ | × | × |
+
+### 链表 linked list
+
+| 题号 | 题解 | 第一遍 | 第二遍 | 第三遍 | 第四遍 | 第五遍 |
+|:- | :-: | :-: | :-: | :-:|:-:|:-:|
+|难度：简单[206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)|[思路与代码](LinkedList/206.&#32;反转链表.md) | √ | √ | × | × | × |
+|难度：简单[141.环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)|[思路与代码](LinkedList/141.&#32;环形链表.md)| √ | √ | × | × | × |
