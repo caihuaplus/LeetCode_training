@@ -31,7 +31,7 @@ LeetCode 刷题之路，记录自己的刷题之旅。
 ### 数组  Array
 
 | 题号 | 难度 | 题解 | 第一遍 | 第二遍 | 第三遍 | 第四遍 | 第五遍 |
-|:- | :-: | :-: | :-: | :-:|:-:|:-:|
+|:- | :-: | :-: | :-: | :-:|:-:|:-:|:-:|
 |[283.移动零](https://leetcode-cn.com/problems/move-zeroes/)| 简单 |[思路与代码](./Array/283-move-zeroes.md) | √ | √ | √ | × | × |
 |[70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)| 简单 |[思路与代码](./Array/70-climbing-stairs.md) | √ | √ | √ | × | × |
 |[1.两数之和](https://leetcode-cn.com/problems/two-sum/)| 简单 |[思路与代码](./Array/1-two-sum.md) | √ | √ | √ | × | × |
