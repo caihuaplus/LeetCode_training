@@ -41,8 +41,8 @@ LeetCode 刷题之路，记录自己的刷题之旅。
 
 ### 链表 linked list
 
-| 题号 | 题解 | 第一遍 | 第二遍 | 第三遍 | 第四遍 | 第五遍 |
-|:- | :-: | :-: | :-: | :-:|:-:|:-:|
+| 题号 | 难度 | 题解 | 第一遍 | 第二遍 | 第三遍 | 第四遍 | 第五遍 |
+|:- | :-: | :-: | :-: | :-: | :-:|:-:|:-:|
 |[206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)| 简单 |[思路与代码](./LinkedList/206-reverse-linked-list.md) | √ | √ | × | × | × |
 |[141.环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)| 简单 |[思路与代码](./LinkedList/141-linked-list-cycle.md)| √ | √ | × | × | × |
 |[142.环形链表II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)| 简单 |[思路与代码](./LinkedList/142-linked-list-cycle-ii.md)| √ | √ | × | × | × |
