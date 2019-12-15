@@ -50,6 +50,7 @@ private int climb_Stairs(int i, int n) {
 ```
 
 此种解法的时间复杂度是 2^n。
+
 空间复杂度是O(n)。
 
 ### 2. 斐波那契数列

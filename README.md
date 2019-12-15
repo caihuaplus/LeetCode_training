@@ -38,6 +38,9 @@ LeetCode 刷题之路，记录自己的刷题之旅。
 |[15. 三数之和](https://leetcode-cn.com/problems/3sum/)| 中等 |[思路与代码](./Array/15-3sum.md) | √ | √ | × | × | × |
 |[11.盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/)| 中等 |[思路与代码](./Array/11-container-with-most-water.md) | √ | √ | √ | × | × |
 |[66.加一](https://leetcode-cn.com/problems/plus-one/)| 简单 |[思路与代码](./Array/66-plus-one.md) | √ | √ | ×  | × | × |
+|[88. 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/)| 简单 |[思路与代码](./Array/88-merge-sorted-array.md)| √ | √ | ×  | × | × |
+|[189. 旋转数组](https://leetcode-cn.com/problems/rotate-array/)| 简单 |[思路与代码](./Array/189-rotate-array.md)| √ | √ | ×  | × | × |
+|[26.删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)| 简单 |[思路与代码](./Array/26-remove-duplicates-from-sorted-array.md)| √ | √ | ×  | × | × |
 
 ### 链表 linked list
 
@@ -47,3 +50,5 @@ LeetCode 刷题之路，记录自己的刷题之旅。
 |[141.环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)| 简单 |[思路与代码](./LinkedList/141-linked-list-cycle.md)| √ | √ | × | × | × |
 |[142.环形链表II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)| 简单 |[思路与代码](./LinkedList/142-linked-list-cycle-ii.md)| √ | √ | × | × | × |
 |[24. 两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)| 中等 |[思路与代码](./LinkedList/24-swap-nodes-in-pairs.md)| √ | √ | × | × | × |
+|[25.K 个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group)| 困难 |[思路与代码](./LinkedList/25-reverse-nodes-in-k-group.md)| × | × | × | × | × |
+|[21. 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists)| 简单 |[思路与代码](./LinkedList/21-merge-two-sorted-lists.md)| √ | √ | × | × | × |
