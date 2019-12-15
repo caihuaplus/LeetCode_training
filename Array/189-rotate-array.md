@@ -147,7 +147,7 @@ private void reverses(int[] nums, int start, int end) {
 ```java
 public void rotate4(int[] nums, int k) {
   // 定义一个 count 变量用来计数
-  int count;
+  int count = 0;
   for(int start = 0; count < nums.length; start++) {
       // 当前的指针位置
       int current = start;
@@ -159,7 +159,7 @@ public void rotate4(int[] nums, int k) {
         prev = temp;
         current = next;
         count++;
-      } while(start != current);t
+      } while(start != current);
   }
 }
 ```

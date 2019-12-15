@@ -52,3 +52,10 @@ LeetCode 刷题之路，记录自己的刷题之旅。
 |[24. 两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)| 中等 |[思路与代码](./LinkedList/24-swap-nodes-in-pairs.md)| √ | √ | × | × | × |
 |[25.K 个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group)| 困难 |[思路与代码](./LinkedList/25-reverse-nodes-in-k-group.md)| × | × | × | × | × |
 |[21. 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists)| 简单 |[思路与代码](./LinkedList/21-merge-two-sorted-lists.md)| √ | √ | × | × | × |
+
+### 栈 stack
+
+| 题号 | 难度 | 题解 | 第一遍 | 第二遍 | 第三遍 | 第四遍 | 第五遍 |
+|:- | :-: | :-: | :-: | :-: | :-:|:-:|:-:|
+|[20. 有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)| 简单 |[思路与代码](./Stack/20-valid-parentheses.md) | √ | √ | × | × | × |
+|[155.最小栈](https://leetcode-cn.com/problems/min-stack/)| 简单 |[思路与代码](./Stack/155-min-stack.md) | √ | √ | × | × | × |

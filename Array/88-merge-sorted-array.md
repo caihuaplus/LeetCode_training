@@ -41,9 +41,9 @@ public void merge(int[] nums1, int m, int[] nums2, int n) {
 }
 ```
 
-时间复杂度 : O((n + m)\log(n + m))O((n+m)log(n+m))。
+时间复杂度 :O((n+m)log(n+m))。
 
-空间复杂度 : O(1)O(1)。
+空间复杂度 : O(1)。
 
 ### 2. 双指针 / 从前往后
 
@@ -75,7 +75,7 @@ public void merge(int[] nums1, int m, int[] nums2, int n) {
 
 复杂度分析
 
-时间复杂度 : O(n + m)O。
+时间复杂度 : O(n + m)。
 
 空间复杂度 : O(m)。
 
@@ -107,6 +107,6 @@ public void merge(int[] nums1, int m, int[] nums2, int n) {
 
 复杂度分析
 
-时间复杂度 : O(n + m)O。
+时间复杂度 : O(n + m)。
 
 空间复杂度 : O(1)。
