@@ -59,3 +59,9 @@ LeetCode 刷题之路，记录自己的刷题之旅。
 |:- | :-: | :-: | :-: | :-: | :-:|:-:|:-:|
 |[20. 有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)| 简单 |[思路与代码](./Stack/20-valid-parentheses.md) | √ | √ | × | × | × |
 |[155.最小栈](https://leetcode-cn.com/problems/min-stack/)| 简单 |[思路与代码](./Stack/155-min-stack.md) | √ | √ | × | × | × |
+
+### 队列 Queue
+
+| 题号 | 难度 | 题解 | 第一遍 | 第二遍 | 第三遍 | 第四遍 | 第五遍 |
+|:- | :-: | :-: | :-: | :-: | :-:|:-:|:-:|
+|[641. 设计循环双端队列](https://leetcode-cn.com/problems/design-circular-deque/)| 中等 |[思路与代码](./Queue/641-design-circular-deque.md) | √ | √ | × | × | × |
