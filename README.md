@@ -35,10 +35,10 @@ LeetCode 刷题之路，记录自己的刷题之旅。
 |[283.移动零](https://leetcode-cn.com/problems/move-zeroes/)| 简单 |[思路与代码](./Array/283-move-zeroes.md) | √ | √ | √ | × | × |
 |[70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)| 简单 |[思路与代码](./Array/70-climbing-stairs.md) | √ | √ | √ | × | × |
 |[1.两数之和](https://leetcode-cn.com/problems/two-sum/)| 简单 |[思路与代码](./Array/1-two-sum.md) | √ | √ | √ | × | × |
-|[15. 三数之和](https://leetcode-cn.com/problems/3sum/)| 中等 |[思路与代码](./Array/15-3sum.md) | √ | √ | × | × | × |
+|[15. 三数之和](https://leetcode-cn.com/problems/3sum/)| 中等 |[思路与代码](./Array/15-3sum.md) | √ | √ | √ | × | × |
 |[11.盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/)| 中等 |[思路与代码](./Array/11-container-with-most-water.md) | √ | √ | √ | × | × |
-|[66.加一](https://leetcode-cn.com/problems/plus-one/)| 简单 |[思路与代码](./Array/66-plus-one.md) | √ | √ | ×  | × | × |
-|[88. 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/)| 简单 |[思路与代码](./Array/88-merge-sorted-array.md)| √ | √ | ×  | × | × |
+|[66.加一](https://leetcode-cn.com/problems/plus-one/)| 简单 |[思路与代码](./Array/66-plus-one.md) | √ | √ | √  | × | × |
+|[88. 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/)| 简单 |[思路与代码](./Array/88-merge-sorted-array.md)| √ | √ | × | × | × |
 |[189. 旋转数组](https://leetcode-cn.com/problems/rotate-array/)| 简单 |[思路与代码](./Array/189-rotate-array.md)| √ | √ | ×  | × | × |
 |[26.删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)| 简单 |[思路与代码](./Array/26-remove-duplicates-from-sorted-array.md)| √ | √ | ×  | × | × |
 
