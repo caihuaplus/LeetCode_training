@@ -56,7 +56,7 @@ LeetCode 刷题之路，记录自己的刷题之旅。
 |[141.环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)| 简单 |[思路与代码](./LinkedList/141-linked-list-cycle.md)| √ | √ | × | × | × |
 |[142.环形链表II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)| 简单 |[思路与代码](./LinkedList/142-linked-list-cycle-ii.md)| √ | √ | × | × | × |
 |[24. 两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)| 中等 |[思路与代码](./LinkedList/24-swap-nodes-in-pairs.md)| √ | √ | × | × | × |
-|[25.K 个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group)| 困难 |[思路与代码](./LinkedList/25-reverse-nodes-in-k-group.md)| × | × | × | × | × |
+|[25.K 个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group)| 困难 |[思路与代码](./LinkedList/25-reverse-nodes-in-k-group.md)| ❎ | × | × | × | × |
 |[21. 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists)| 简单 |[思路与代码](./LinkedList/21-merge-two-sorted-lists.md)| √ | √ | × | × | × |
 
 ### 栈 stack
@@ -65,12 +65,15 @@ LeetCode 刷题之路，记录自己的刷题之旅。
 |:- | :-: | :-: | :-: | :-: | :-:|:-:|:-:|
 |[20. 有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)| 简单 |[思路与代码](./Stack/20-valid-parentheses.md) | √ | √ | × | × | × |
 |[155.最小栈](https://leetcode-cn.com/problems/min-stack/)| 简单 |[思路与代码](./Stack/155-min-stack.md) | √ | √ | × | × | × |
+|[84. 柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/)| 困难 |[思路与代码](./Stack/84-largest-rectangle-in-histogram.md) | ❎ | × | × | × | × |
+|[42. 接雨水](https://leetcode-cn.com/problems/trapping-rain-water/)| 困难 |[思路与代码](./Stack/42-trapping-rain-water.md | ❎ | × | × | × | × |
 
 ### 队列 Queue
 
 | 题号 | 难度 | 题解 | 第一遍 | 第二遍 | 第三遍 | 第四遍 | 第五遍 |
 |:- | :-: | :-: | :-: | :-: | :-:|:-:|:-:|
 |[641. 设计循环双端队列](https://leetcode-cn.com/problems/design-circular-deque/)| 中等 |[思路与代码](./Queue/641-design-circular-deque.md) | √ | √ | × | × | × |
+|[239. 滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/)| 困难 |[思路与代码](./Queue/239-sliding-window-maximum.md) | ❎| × | × | × | × |
 
 ### 哈希表 HashTable
 
