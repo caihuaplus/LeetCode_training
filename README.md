@@ -66,7 +66,7 @@ LeetCode 刷题之路，记录自己的刷题之旅。
 |[20. 有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)| 简单 |[思路与代码](./Stack/20-valid-parentheses.md) | √ | √ | × | × | × |
 |[155.最小栈](https://leetcode-cn.com/problems/min-stack/)| 简单 |[思路与代码](./Stack/155-min-stack.md) | √ | √ | × | × | × |
 |[84. 柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/)| 困难 |[思路与代码](./Stack/84-largest-rectangle-in-histogram.md) | ❎ | × | × | × | × |
-|[42. 接雨水](https://leetcode-cn.com/problems/trapping-rain-water/)| 困难 |[思路与代码](./Stack/42-trapping-rain-water.md | ❎ | × | × | × | × |
+|[42. 接雨水](https://leetcode-cn.com/problems/trapping-rain-water/)| 困难 |[思路与代码](./Stack/42-trapping-rain-water.md) | ❎ | × | × | × | × |
 
 ### 队列 Queue
 
