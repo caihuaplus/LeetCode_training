@@ -81,3 +81,10 @@ LeetCode 刷题之路，记录自己的刷题之旅。
 |:- | :-: | :-: | :-: | :-: | :-:|:-:|:-:|
 |[242. 有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/)| 简单 |[思路与代码](./HashTable/242.valid-anagram.md) | √ | √ | × | × | × |
 |[49. 字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/)| 中等 |[思路与代码](./HashTable/49-group-anagrams.md) | √ | √ | × | × | × |
+
+### 二叉树 BinaryTree
+
+| 题号 | 难度 | 题解 | 第一遍 | 第二遍 | 第三遍 | 第四遍 | 第五遍 |
+|:- | :-: | :-: | :-: | :-: | :-:|:-:|:-:|
+|[94. 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)| 中等 |[思路与代码](./BinaryTree/94-binary-tree-inorder-traversal.md) | √ | √ | × | × | × |
+|[144. 二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)| 中等 |[思路与代码](./BinaryTree/144-binary-tree-preorder-traversal.md) | √ | √ | × | × | × |
