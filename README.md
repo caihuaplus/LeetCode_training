@@ -88,3 +88,6 @@ LeetCode 刷题之路，记录自己的刷题之旅。
 |:- | :-: | :-: | :-: | :-: | :-:|:-:|:-:|
 |[94. 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)| 中等 |[思路与代码](./BinaryTree/94-binary-tree-inorder-traversal.md) | √ | √ | × | × | × |
 |[144. 二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)| 中等 |[思路与代码](./BinaryTree/144-binary-tree-preorder-traversal.md) | √ | √ | × | × | × |
+|[589. N叉树的前序遍历](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/)| 简单 |[思路与代码](./BinaryTree/589-n-ary-tree-preorder-traversal.md) | √ | √ | × | × | × |
+|[590. N叉树的后序遍历](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/)| 简单 |[思路与代码](./BinaryTree/590-n-ary-tree-postorder-traversal.md) | √ | √ | × | × | × |
+|[236. 二叉树的最近公共祖先]| 简单 |[思路与代码] | √ | √ | × | × | × |
